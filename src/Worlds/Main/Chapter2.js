@@ -129,7 +129,7 @@ const Chapter = {
             Difficulty: 4,
             Title: "!suniMinus!",
             Description: "-25-",
-            Goal: ["-25-"],
+            Goal: ["25"],
             Items: [
                 [
                     ["operator", { symbol: "-" }]
@@ -176,7 +176,7 @@ const Chapter = {
             Difficulty: 6,
             Title: "Approximate III",
             Description: "Make -35",
-            Goal: ["-35"],
+            Goal: ["-5"],
             Items: [
                 [
                     ["number", { symbol: 7 }], ["number", { symbol: 2 }], ["number", { symbol: 7 }], ["number", { symbol: -2 }],
@@ -194,7 +194,7 @@ const Chapter = {
             Difficulty: 3,
             Title: "The last stage",
             Description: "3ND-0F-TH3-CHAPTER-2",
-            Goal: ["3ND-0F-TH3-CHAPTER-2"],
+            Goal: ["3"],
             Items: [
                 [
                     ["text", { symbol: "T" }], ["text", { symbol: "H" }], ["text", { symbol: "E" }], ["operator", { symbol: "-" }],
